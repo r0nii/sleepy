@@ -1,0 +1,15 @@
+
+@media only screen and (min-width: 768px) {
+    .Item_preview {
+        display: flex;
+        position: absolute;
+        top: 80px;
+        left: 4vw;
+        align-items: center;
+        justify-content: center;
+        width: 30.55vw;
+        height: 46.52vw;
+        margin: 0;
+    }
+}
+
